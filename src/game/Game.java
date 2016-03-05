@@ -38,7 +38,7 @@ import javax.swing.JPanel;
 public class Game extends JPanel
 {
 	public static circle Circle; 
-	public static JFrame frame = new JFrame("Project: λ");
+	public static JFrame frame = new JFrame("Project Lambda");
 	public static Grid grid = new Grid();
 	public static String gameState = "Menu";
 	public static Players players;
